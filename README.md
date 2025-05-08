@@ -1,6 +1,6 @@
 # 🧮 Interpreter for Extended Calculator Language (ECL)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: BSD](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 
 ## 🚀 Overview
 
@@ -157,6 +157,6 @@ make clean
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License – see the [LICENSE](LICENSE) file for details.
 
 ---
